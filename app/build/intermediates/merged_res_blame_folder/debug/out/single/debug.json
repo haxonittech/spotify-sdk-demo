@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kali/Desktop/SpotifyNormalApp/app/build/intermediates/merged_res/debug/mipmap_ic_launcher_round.xml.flat",
+        "source": "/home/kali/Desktop/SpotifyNormalApp/app/src/main/res/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/kali/Desktop/SpotifyNormalApp/app/build/intermediates/merged_res/debug/mipmap_ic_launcher.xml.flat",
+        "source": "/home/kali/Desktop/SpotifyNormalApp/app/src/main/res/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/kali/Desktop/SpotifyNormalApp/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/kali/Desktop/SpotifyNormalApp/app/src/main/res/layout/activity_main.xml"
+    }
+]
