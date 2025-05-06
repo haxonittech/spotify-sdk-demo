@@ -1,6 +1,0 @@
-com/example/spotifynormalapp/BuildConfig.java
- com.example.spotifynormalapp.BuildConfig
-com/example/spotifynormalapp/MainActivity.java
- com.example.spotifynormalapp.MainActivity
-com/example/spotifynormalapp/SpotifyCallbackActivity.java
- com.example.spotifynormalapp.SpotifyCallbackActivity
